@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_261"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-annotation-processors-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-chart-customizers-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-chart-themes-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-custom-visualization-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-fonts-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-functions-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/jasperreports-metadata-6.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/spring-beans-5.2.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/spring-core-5.2.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/spring-jcl-5.2.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/Diego/Java/Librerias/Librerias POO/joda-time-2.10.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/commons-collections4-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/commons-digester-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/commons-logging-1.2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-annotation-processors-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-chart-customizers-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-chart-themes-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-custom-visualization-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-fonts-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-functions-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/jasperreports-metadata-6.16.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/joda-time-2.10.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/spring-beans-5.2.14.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/spring-core-5.2.14.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="libreria/spring-jcl-5.2.14.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
